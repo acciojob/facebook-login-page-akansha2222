@@ -52,7 +52,43 @@ form input {
   background: #1877f2;
   padding: 15px 0;
   border-radius: 6px;
+  color: #fff;  border: none;
+  outline: none;
+  cursor: pointer;
+  background: #1877f2;
+  padding: 15px 0;
+  border-radius: 6px;
   color: #fff;
   font-size: 1.25rem;
   font-weight: 600;
   transition: 0.2s ease;
+  font-size: 1.25rem;
+  font-weight: 600;
+  transition: 0.2s ease;
+}
+form a{
+	text-decoration:none;
+	text-align:center;
+}
+#b2
+{
+	border: none;
+  outline: none;
+  cursor: pointer;
+  background: #1877f2;
+  padding: 15px 0;
+  border-radius: 4px;
+  color: #fff;  border: none;
+  outline: none;
+  cursor: pointer;
+  background: #1877f2;
+  padding: 15px 0;
+  border-radius: 6px;
+  color: #fff;
+  font-size: 1.25rem;
+  font-weight: 400;
+  transition: 0.2s ease;
+  font-size: 1.25rem;
+  font-weight: 600;
+  transition: 0.2s ease;
+}
